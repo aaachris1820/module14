@@ -57,6 +57,15 @@ header {
     padding: 40px 35px;
 }
 
+/* footer style */
+
+ footer {
+    padding-top: 56px;
+    padding-bottom: 84px;
+    background-color: black;
+    color: white;
+ }
+
 /* responsive style */
 
 @media screen and (max-width:576px) {
